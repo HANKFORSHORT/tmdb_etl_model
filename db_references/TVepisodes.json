@@ -1,0 +1,30 @@
+{
+    "air_date": "2019-05-01",
+    "crew": [],
+    "episode_number": 1,
+    "episode_type": "standard",
+    "guest_stars": [
+        {
+            "character": "Annie January / Starlight (uncredited)",
+            "credit_id": "6a00dfb62dc1536632f889f0",
+            "order": 1112,
+            "adult": false,
+            "gender": 1,
+            "id": 990393,
+            "known_for_department": "Acting",
+            "name": "Erin Moriarty",
+            "original_name": "Erin Moriarty",
+            "popularity": 12.2903,
+            "profile_path": "/dG7gLzlZCjZkjKMyoGIL8h5wjRj.jpg"
+        }
+    ],
+    "name": "Starlight: WISH",
+    "overview": "You’re not crime-fighting ready, until you’re camera ready. To get the deepest clean for the most sensitive skin, try the new oil-free skincare line from the freshest face among The Seven: Wish by Starlight. A Vought International Company.",
+    "id": 4325044,
+    "production_code": "",
+    "runtime": 1,
+    "season_number": 0,
+    "still_path": "/aX3nE9aUIljNhCSCkHZBGBbJ0H3.jpg",
+    "vote_average": 10.0,
+    "vote_count": 1
+}
