@@ -14,7 +14,6 @@ DB_CONFIG = {
 }
 
 # ── TMDb API ──────────────────────────────────────────────────────────────────
-# Dán API Read Access Token (Bearer) từ TMDb vào đây
 TMDB_API_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ZmUwZGEyM2U3MzQzNzExM2Y3MWNhY2RiNzJjOTIwZCIsIm5iZiI6MTc3Nzk3MzA4NS42OCwic3ViIjoiNjlmOWI3NWQwNjZlZTgyOTcxNjQ2N2EwIiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.h8Ys_D7zMGqCs0eP0JgpBQMhhuEePCj4vkCaTmx31uI"
 
 TMDB_BASE_URL  = "https://api.themoviedb.org/3"
