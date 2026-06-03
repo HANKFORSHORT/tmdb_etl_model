@@ -3,7 +3,7 @@
 ## Cấu trúc file
 
 ```
-tmdb_etl/
+etl_model/
 ├── config.py          ← Cấu hình (sửa trước khi chạy)
 ├── db_utils.py        ← DB connection, API client, ETL_Log
 ├── etl_reference.py   ← Nạp dữ liệu tĩnh (lookup tables)
