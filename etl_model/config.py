@@ -9,7 +9,7 @@ DB_CONFIG = {
     "dbname":   "",
     "user":     "",
     "password": "",
-    "host":     "l",
+    "host":     "",
     "port":     "",
 }
 
